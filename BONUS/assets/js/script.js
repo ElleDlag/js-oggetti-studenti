@@ -1,4 +1,4 @@
-var myText = "Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+var myText = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 //primo modo
 //splitto la parola usando lo spazio come splitter e carico gli elementi in un array
