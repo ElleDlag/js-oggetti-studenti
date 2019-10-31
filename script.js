@@ -33,7 +33,7 @@ console.log('\r\n\r\n\r\n***** ESERCIZIO 2 *****\r\n\r\n')
     ]
     
     var n=1;
-    students.forEach(function(el,i){
+    students.forEach(function(el){
     for(var val in el){
     console.log("studente" + n + ": " + val + " " + el[val])
     }
